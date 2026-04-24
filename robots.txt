@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitchen-remodel-contractor-raleigh-nc.netlify.app/sitemap.xml
